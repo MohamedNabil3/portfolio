@@ -39,5 +39,7 @@ Designed to showcase Full Stack Web Development skills (MERN Stack) and Computer
 - **Styles**: Modify `style.css` to change colors, fonts, or layout.
 - **Images**: Add project screenshots or a profile picture if desired (currently using CSS shapes/icons).
 
+- you can checkout the project live at https://mohamednabil3.github.io/portfolio/
+
 ---
 © 2025 Mohamed Nabil
